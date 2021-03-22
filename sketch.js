@@ -9,7 +9,7 @@ var world;
 
 
 function setup() {
-	createCanvas(1600, 700);
+	createCanvas(1200, 700);
 	rectMode(CENTER);
 
 
